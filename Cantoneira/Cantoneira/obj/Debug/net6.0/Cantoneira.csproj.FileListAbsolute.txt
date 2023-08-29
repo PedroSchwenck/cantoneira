@@ -1,0 +1,15 @@
+C:\Users\padrao\source\repos\Cantoneira\Cantoneira\obj\Debug\net6.0\Cantoneira.csproj.AssemblyReference.cache
+C:\Users\padrao\source\repos\Cantoneira\Cantoneira\obj\Debug\net6.0\Cantoneira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padrao\source\repos\Cantoneira\Cantoneira\obj\Debug\net6.0\Cantoneira.AssemblyInfoInputs.cache
+C:\Users\padrao\source\repos\Cantoneira\Cantoneira\obj\Debug\net6.0\Cantoneira.AssemblyInfo.cs
+C:\Users\padrao\source\repos\Cantoneira\Cantoneira\obj\Debug\net6.0\Cantoneira.csproj.CoreCompileInputs.cache
+C:\Users\padrao\source\repos\Cantoneira\Cantoneira\bin\Debug\net6.0\Cantoneira.exe
+C:\Users\padrao\source\repos\Cantoneira\Cantoneira\bin\Debug\net6.0\Cantoneira.deps.json
+C:\Users\padrao\source\repos\Cantoneira\Cantoneira\bin\Debug\net6.0\Cantoneira.runtimeconfig.json
+C:\Users\padrao\source\repos\Cantoneira\Cantoneira\bin\Debug\net6.0\Cantoneira.dll
+C:\Users\padrao\source\repos\Cantoneira\Cantoneira\bin\Debug\net6.0\Cantoneira.pdb
+C:\Users\padrao\source\repos\Cantoneira\Cantoneira\obj\Debug\net6.0\Cantoneira.dll
+C:\Users\padrao\source\repos\Cantoneira\Cantoneira\obj\Debug\net6.0\refint\Cantoneira.dll
+C:\Users\padrao\source\repos\Cantoneira\Cantoneira\obj\Debug\net6.0\Cantoneira.pdb
+C:\Users\padrao\source\repos\Cantoneira\Cantoneira\obj\Debug\net6.0\Cantoneira.genruntimeconfig.cache
+C:\Users\padrao\source\repos\Cantoneira\Cantoneira\obj\Debug\net6.0\ref\Cantoneira.dll
